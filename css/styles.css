@@ -3,3 +3,12 @@
     background-color: blue;
     color: white;
 }
+
+#header{
+    color: black;
+    background-color: rgba(226, 80, 255, 0.356);
+}
+
+#logo{
+    color: blueviolet;
+}
